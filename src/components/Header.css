@@ -8,6 +8,7 @@
   margin: 15px;
   margin-top: 15px;
   z-index: 100;
+
 }
 .header__logo {
   height: 24px;
@@ -19,17 +20,22 @@
   flex: 1;
   display: flex;
   justify-content: center;
+  margin-left: 90px;
+
 }
 
 .header__center>p {
   margin: 10px;
   text-transform: uppercase;
+
 }
 
 .header__right {
   display: flex;
   justify-content: flex-end;
   text-transform: uppercase;
+  margin-right: 40px;
+
 }
 
 .header__right > p {
